@@ -14,5 +14,8 @@
         <module>shopmall-order</module>
         <module>shopmall-product</module>
         <module>shopmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>shopmall-common</module>
     </modules>
 </project>
